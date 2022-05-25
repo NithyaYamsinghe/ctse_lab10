@@ -1,0 +1,15 @@
+{
+  "name": "lab-12",
+  "version": "1.0.0",
+  "description": "Node application for the CTSE LAB 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nirmith Akash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
